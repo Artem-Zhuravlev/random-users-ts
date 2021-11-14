@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Artem-Zhuravlev/random-users-ts/issues"
   },
-  "homepage": "https://github.com/Artem-Zhuravlev/random-users-ts#readme"
+  "homepage": "https://github.com/Artem-Zhuravlev/random-users-ts#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
 }
