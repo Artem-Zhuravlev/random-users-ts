@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Artem-Zhuravlev/random-users-ts#readme",
   "devDependencies": {
     "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
   }
 }
