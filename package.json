@@ -4,6 +4,7 @@
   "description": "This app generates random users and company names on the map",
   "main": "index.js",
   "scripts": {
+    "start": "parcel index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,9 @@
   "homepage": "https://github.com/Artem-Zhuravlev/random-users-ts#readme",
   "devDependencies": {
     "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "@types/faker": "^5.5.9",
+    "faker": "^5.5.3"
   }
 }
